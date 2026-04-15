@@ -1,7 +1,7 @@
 # **LiNT-II**: readability assessment for Dutch
 
 [![License: EUPL v1.2](https://img.shields.io/badge/License-EUPL%20v1.2-blue.svg)](LICENSE)
-[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanboefer/lint_ii/HEAD?urlpath=%2Fdoc%2Ftree%2Flint_ii_demo.ipynb)
 
 ## Table of contents
